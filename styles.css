@@ -150,7 +150,7 @@ body {
 .hero-image-container {
   background-color: #F9FAF85F;
   min-width: 450px;
-  min-height: 300px;
+  min-height: 250px;
   align-self: stretch;
   display: flex;
   justify-content: center;
