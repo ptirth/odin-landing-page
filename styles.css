@@ -127,8 +127,9 @@ body {
 
 .hero-sub-text {
   margin: 0;
+  margin-top: 5px;
   font-size: 18px;
-  line-height: 20px;
+  line-height: 22px;
   color: #E5E7EB;
   max-width: 500px;
 }
