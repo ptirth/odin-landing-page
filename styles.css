@@ -248,7 +248,7 @@ body {
 /* Call to action section */
 .call-to-action {
   background-color: #f8e4c9;
-  padding: 60px 6%;
+  padding: 80px 6%;
 }
 
 .cta-container {
@@ -257,7 +257,7 @@ body {
   border: 2px solid #F9FAF8;
   color: #F9FAF8;
   border-radius: 8px;
-  padding: 30px 60px;
+  padding: 40px 60px;
   display: flex;
   justify-content: space-between;
   align-items: center;
