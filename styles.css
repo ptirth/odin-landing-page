@@ -244,3 +244,44 @@ body {
   font-weight: 500;
   color: #161e29;
 }
+
+/* Call to action section */
+.call-to-action {
+  background-color: #f8e4c9;
+  padding: 80px 6%;
+}
+
+.cta-container {
+  box-shadow: 0 0 2rem rgba(0,0,0,.2);
+  background-color: #fda93b;
+  border: 2px solid #F9FAF8;
+  color: #F9FAF8;
+  border-radius: 8px;
+  padding: 40px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cta-header {
+  font-size: 22px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.cta-subtext {
+  font-size: 15px;
+  font-weight: 400;
+  margin: 0;
+}
+
+.cta-button.sign-up-button {
+  margin: 0;
+  border: 2px solid #F9FAF8;
+  background-color: #fda93b;
+  transition: all .2s ease-in-out;
+}
+
+.cta-button.sign-up-button:hover {
+  transform: scale(1.05);
+}
