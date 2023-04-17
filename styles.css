@@ -285,3 +285,11 @@ body {
 .cta-button.sign-up-button:hover {
   transform: scale(1.05);
 }
+
+footer {
+  background-color: #2F2F2F;
+  color: #E5E7EB;
+  text-align: center;
+  font-size: 18px;
+  padding: 18px 6%;
+}
